@@ -25,17 +25,17 @@ Post-Training Fine-Tuning Quantization : K-means and Linear_transform。
 Program summary
 -----------------
 
-*之前研究相關不方便公開 : self_mobilenetv2_cifar10.py
+* 之前研究相關不方便公開 : self_mobilenetv2_cifar10.py
 
-*只提供軟體模擬運算程式和部分量化方法。 
+* 只提供軟體模擬運算程式和部分量化方法。 
 
-*Main program : model_control.py
+* Main program : model_control.py
 
-*主要DL model 主成元件 : average_pooling, batch_normalization, convolution, dense, global_average_pooling, padding, softmax, mobilenetv2_cifar10
+* 主要DL model 主成元件 : average_pooling, batch_normalization, convolution, dense, global_average_pooling, padding, softmax, mobilenetv2_cifar10
 
-*軟硬體輸出答案比對 : data_check.py
+* 軟硬體輸出答案比對 : data_check.py
 
-*數值轉換 : quantize_valid.py
+* 數值轉換 : quantize_valid.py
 
-*數值量化 : quantize_convert.py
+* 數值量化 : quantize_convert.py
 
