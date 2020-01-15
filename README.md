@@ -36,3 +36,5 @@ Program summary
 
 * 數值量化 : quantize_convert.py
 
+* Thesis : https://hdl.handle.net/11296/c48z7a
+
