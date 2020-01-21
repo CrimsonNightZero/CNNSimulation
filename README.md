@@ -1,4 +1,4 @@
-NeuralNetworkSimulation
+CNNSimulation
 =========================
 
 專案開發時間
